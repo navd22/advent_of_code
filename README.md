@@ -1,1 +1,1 @@
-Python Solutions for Advent of Code Puzzles
+All Python Solutions for 2021 Advent of Code Puzzles
